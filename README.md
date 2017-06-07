@@ -1,6 +1,6 @@
 MISRA C:2012 Examples from MISRA C:2012 document
 
-Release: 2016-01-01 
+Release: 2016-11-01 
 
 Published by 
 HORIBA MIRA Limited, Watling Street, Nuneaton, Warwickshire CV10 0TU UK
@@ -73,3 +73,4 @@ Please contact MISRA for further details, including alternative licensing scheme
 Release History
 ===============
 2014-01-13 1st Release
+2016-11-01 Addition of examples to clarify guidelines and examples for new AMD1 rules
